@@ -5,6 +5,14 @@
 
 <h1 align="center"></h1>
 
+<p align="center">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=denieu&layout=compact&theme=onedark">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denieu&layout=compact&theme=onedark">
+    </a>
+</p>
+
+<h1 align="center"></h1>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/wdenieu/">
     <img src="src/images/linkedin.svg" alt="linkedin">
