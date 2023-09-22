@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Daniel Wojcickoski!👋</h1>
 
 <p align="center">Graduate Mechatronics Technician at IFSul Charqueadas in 2020.</p> 
-<p align="center">Currently I work as a QA Engineer at SAP and I'm a student of Computer Science at UFRGS.</p>
+<p align="center">Currently I work as a QA Engineer at Nelogica and I'm a student of Computer Science at UFRGS.</p>
 
 <h1 align="center"></h1>
 
